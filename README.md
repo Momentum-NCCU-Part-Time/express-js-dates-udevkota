@@ -10,7 +10,7 @@ You'll need to create a new Express app from scratch for this project, beginning
 You'll need to read the [Day.js documentation](https://day.js.org/docs/en/display/format) to learn how to use the library to make these endpoints work.
 
 ## Requirements: Endpoints
-
+=
 Your API should have the following endpoints:
 
 - `GET /api/dates/today`: Returns the current date in the format `Tuesday Jan 16, 2024`.
